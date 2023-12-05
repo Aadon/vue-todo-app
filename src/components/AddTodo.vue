@@ -78,6 +78,9 @@
         margin: 16px auto;
         background-color: #0097ee;
         cursor: pointer;
-
+        transition: all .15s ease-in-out;
+    }
+    .btn-save:hover {
+       background: rgba(9, 78, 218, 0.7)
     }
 </style>

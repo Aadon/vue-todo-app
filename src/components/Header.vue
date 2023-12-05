@@ -30,8 +30,8 @@ header {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 70px;
-    background: #e6fceb;
-    padding: 16px 20px;
-    color: #575151;
+    background: rgba(0, 0, 0, 0.9);
+    padding: 28px 20px;
+    color: #eee9e9;
 }
 </style>
